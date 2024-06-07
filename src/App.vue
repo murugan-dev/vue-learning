@@ -18,7 +18,11 @@
 
 // Events in  VUE
 
-  import MyEvents from "./components/MyEvents.vue"; 
+  // import MyEvents from "./components/MyEvents.vue"; 
+
+  // REACTIVITY
+
+  import MyReactivity from "./components/Reactivity/MyReactivity.vue"
 
 </script>
 
@@ -32,7 +36,10 @@
       <CombineStyle />
       <ModuleStyle /> -->
 
-      <MyEvents />
+      <!-- <MyEvents /> -->
+
+
+      <MyReactivity/>
   </div>
 </template>
 
