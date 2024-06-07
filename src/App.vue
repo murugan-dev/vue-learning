@@ -22,7 +22,9 @@
 
   // REACTIVITY
 
-  import MyReactivity from "./components/Reactivity/MyReactivity.vue"
+  // import MyReactivity from "./components/Reactivity/MyReactivity.vue"
+
+  import ComputedProperties from "./components/computed properties/ComputetedProperties.vue"
 
 </script>
 
@@ -39,7 +41,8 @@
       <!-- <MyEvents /> -->
 
 
-      <MyReactivity/>
+      <!-- <MyReactivity/> -->
+      <ComputedProperties />
   </div>
 </template>
 
