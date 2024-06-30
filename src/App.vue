@@ -24,7 +24,13 @@
 
   // import MyReactivity from "./components/Reactivity/MyReactivity.vue"
 
-  import ComputedProperties from "./components/computed properties/ComputetedProperties.vue"
+  // import ComputedProperties from "./components/computed properties/ComputetedProperties.vue"
+
+  // import FindASquareNumber from "./components/computed properties/FindASquqreNumber.vue"
+
+  import CircleApplication from "./components/simpleProblem/CircleApplication.vue"
+ 
+  
 
 </script>
 
@@ -42,7 +48,12 @@
 
 
       <!-- <MyReactivity/> -->
-      <ComputedProperties />
+
+      <!-- <ComputedProperties /> -->
+
+      <!-- <FindASquareNumber /> -->
+
+      <CircleApplication />
   </div>
 </template>
 
