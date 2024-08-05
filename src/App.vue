@@ -28,7 +28,11 @@
 
   // import FindASquareNumber from "./components/computed properties/FindASquqreNumber.vue"
 
-  import CircleApplication from "./components/simpleProblem/CircleApplication.vue"
+  // import CircleApplication from "./components/simpleProblem/CircleApplication.vue"
+
+  // import PhotoGalary from './components/galary/PhotoGalary.vue';
+
+  import HMSStudent from "./components/HMSstudent_details/HmsStudentDetails.vue"
  
   
 
@@ -51,9 +55,13 @@
 
       <!-- <ComputedProperties /> -->
 
-      <!-- <FindASquareNumber /> -->
+      <!-- <FindASquareNumber /> --> 
 
-      <CircleApplication />
+      <!-- <CircleApplication /> -->
+
+      <!-- <PhotoGalary /> -->
+
+       <HMSStudent/>
   </div>
 </template>
 
