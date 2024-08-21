@@ -32,7 +32,9 @@
 
   // import PhotoGalary from './components/galary/PhotoGalary.vue';
 
-  import HMSStudent from "./components/HMSstudent_details/HmsStudentDetails.vue"
+  // import HMSStudent from "./components/HMSstudent_details/HmsStudentDetails.vue"
+
+  // import Login from "./components/login/UserLogin.vue"
  
   
 
@@ -61,7 +63,11 @@
 
       <!-- <PhotoGalary /> -->
 
-       <HMSStudent/>
+       <!-- <HMSStudent/> -->
+
+       <!-- <Login/> -->
+    <router-view/>
+
   </div>
 </template>
 

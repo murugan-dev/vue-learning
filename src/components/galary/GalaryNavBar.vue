@@ -5,7 +5,7 @@ export default {
         return {
             menu: [
                 { id: 1, menuItem: "Home" },
-                { id: 2, menuItem: "Galary" },
+                // { id: 2, menuItem: "Galary" },
             ],
             mobileMenu : true
         };

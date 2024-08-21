@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "d1fd",
+      "userName": "qwwe",
+      "fullName": "wqwwed",
+      "address": "WQERT",
+      "password": "123",
+      "phone": 122334344
+    },
+    {
+      "id": "02c2",
+      "userName": "qw",
+      "fullName": "q",
+      "address": "w",
+      "password": "123",
+      "phone": 12333443
+    }
+  ]
+}
